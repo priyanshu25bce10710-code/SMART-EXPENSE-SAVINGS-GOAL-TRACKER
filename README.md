@@ -27,3 +27,8 @@ After adding some expenses, open the data.json file to verify that all entries a
 6.Exit and Reopen the Program:
 Close the app, open it again, and verify that previously saved data still appears (tests file persistence).
 
+SCREENSHOT:
+<img width="1151" height="765" alt="image" src="https://github.com/user-attachments/assets/ffa5dd03-9f46-4d56-8726-4bf5f134f7a3" />
+
+
+

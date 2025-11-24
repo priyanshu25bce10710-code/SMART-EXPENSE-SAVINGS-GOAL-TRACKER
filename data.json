@@ -1,0 +1,30 @@
+{
+    "expenses": [
+        {
+            "amount": 56578.0,
+            "category": "travel",
+            "note": "manali"
+        },
+        {
+            "amount": 450000.0,
+            "category": "travel",
+            "note": "italy"
+        },
+        {
+            "amount": 23000.0,
+            "category": "travel",
+            "note": "italy"
+        },
+        {
+            "amount": 4567.0,
+            "category": "bills",
+            "note": "taj hotel"
+        },
+        {
+            "amount": 3465678.0,
+            "category": "food",
+            "note": "idli"
+        }
+    ],
+    "goals": []
+}
